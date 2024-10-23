@@ -1,6 +1,6 @@
 # MedicineQuadrupedRobot
 
-<img src="https://github.com/Yanlinwu2021/MedicineQuadrupedRobot/blob/main/Quadruped_robot_Manual_03.jpg"  />
+<img src="https://github.com/Yanlinwu2021/MedicineQuadrupedRobot/blob/main/images/Quadruped_robot_Manual_00.jpg"  />
 
 **Medicine-Ornamental crucian carp driven quadruped multi-gait robot**  
 This project is an interrogation based on whether gene editing manipulates evolution and the concretization of the question of whether evolution is nihilistic.
