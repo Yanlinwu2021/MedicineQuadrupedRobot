@@ -4,6 +4,9 @@ Medicine-Ornamental crucian carp driven quadruped multi-gait robot
 Medicine. Ornamental crucian carp driven quadruped multi-gait robot
 This is an interrogation based on whether gene editing manipulates evolution and the concretization of the question of whether evolution is nihilistic.
 
+<img src="https://github.com/Yanlinwu2021/MedicineQuadrupedRobot/blob/main/Quadruped_robot_Manual_01.jpg" alt="Medicine Robot" width="500" />
+<img src="https://github.com/Yanlinwu2021/MedicineQuadrupedRobot/blob/main/Quadruped_robot_Manual_02.jpg" alt="Medicine Robot" width="500" />
+
 
 Medicine-”Ornamental crucian carp driven quadruped multi-gait robot”
 **KEY SENTENCE**
